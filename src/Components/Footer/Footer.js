@@ -30,7 +30,7 @@ function Footer() {
           />
         </a>
         <a
-          href="https://www.instagram.com/khanhsiu.cute_/"
+          href="https://www.instagram.com//"
           className={styles.social__item}
         >
           <img
