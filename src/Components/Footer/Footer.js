@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className={styles.footer}>
       <a href="#home" className={styles.title}>
-        Ho Viet Viet Khanh
+        Thuy Duong
       </a>
       <div className={styles.links__list}>
         <a href="#about" className={styles.links__item}>
