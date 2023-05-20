@@ -20,7 +20,7 @@ function Footer() {
       </div>
       <div className={styles.socical__list}>
         <a
-          href="https://www.facebook.com/VietKhanh.User"
+          href="https://www.facebook.com/adriana.vankova.3367"
           className={styles.social__item}
         >
           <img
