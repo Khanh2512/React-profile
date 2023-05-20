@@ -11,7 +11,7 @@ function Contact() {
       <div className={styles.content}>
         <div className={styles.link__wrap}>
           <a
-            href="https://www.messenger.com/t/"
+            href="https://www.messenger.com/t/adriana.vankova.3367"
             className={styles.link__item}
           >
             <img
