@@ -29,7 +29,7 @@ function Contact() {
           </a>
         </div>
         <form
-          action="https://formsubmit.co/el/leludo"
+          action="https://formsubmit.co/el/nacusi"
           method="POST"
           className={styles.form}
         >
